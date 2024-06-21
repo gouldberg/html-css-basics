@@ -3,7 +3,7 @@
 This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 <br />
 
-## HTML Code
+### HTML Code
 
 - First, we create an HTML file(index.html).
 - After creating the HTML file, we are going to give a title to our webpage using the <title> tag. It should be placed inside the <head> tag.
@@ -12,7 +12,7 @@ This is totally from GeeksForGeeks.org HTML and CSS tutorials.
   - Firstly, we are giving a heading to our page.
   - Inside the heading create 3 **span to store the data**.
 
-## CSS Code
+### CSS Code
 
 - Use of **nth-child() selector property** to give different styles to different span items.
 - The **:nth-child() CSS pseudo-class selector** is useful for targeting elements based on their position among siblings. This selector can match elements by specific numeric positions, odd/even positions, or complex functional notations like An+B.

@@ -6,11 +6,11 @@ This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 The pseudo-element that we are using is **hover**.
 <br />
 
-## HTML Code
+### HTML Code
 
 - Create a normal structure where we use the explosion or shock wave effect.
 
-## CSS Code
+### CSS Code
 
 - The first step is to aligning our div to the center of the page using **flexbox**
 - Then we have to create a circle using **border-radius property**. We have increased the value of it's offset at every step.

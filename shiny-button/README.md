@@ -9,11 +9,11 @@ A button should be designed in such a way that it stands out of the other compon
 The approach is to use **pseudo selectors before and after selectors.** Using before we will be making strip kind of effect and using after we will make sure it move back and forth give it a reflection kind of look which makes our button look shinny.
 <br />
 
-## HTML Code
+### HTML Code
 
 - Create a button.
 
-## CSS Code
+### CSS Code
 
 - Step 1: First do some basic styling of button like a background some and border-radius.
 - Step 2: Now use **inset shadow property** to give a shadow to the inside of the border of button.

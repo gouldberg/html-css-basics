@@ -6,11 +6,11 @@ This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 The approach is to create a **rotated string** at the bottom of the original string and then **changing its opacity and background** to make it look like the reflection of the original string.
 <br />
 
-## HTML Code
+### HTML Code
 
 - "h2" tag is created with the text wrapped in it.
 
-## CSS Code
+### CSS Code
 
 - Step 1: Apply a **radial background** which is lighter at the center and darker at the corners.
 - Step 2: Apply some basic styling like size, color, etc to the heading.
