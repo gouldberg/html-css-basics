@@ -10,7 +10,7 @@ Create the main div in which we are creating 4 list tags.
 Use of **nth-child() selector property** to give different styles to different list items.
 <br />
 
-## HTML Code
+### HTML Code
 
 - First, we create an HTML file (index.html).
 - Then we link the CSS file that provides all the animation's effect to our HTML. It is also placed inside <head> tag.
@@ -18,7 +18,7 @@ Use of **nth-child() selector property** to give different styles to different l
   - Firstly, we are giving heading to our page.
   - Then, we have to create an unordered list in which we have 5 list items that are further used to store the image.
 
-## CSS Code
+### CSS Code
 
 CSS is used to give different types of animations and effects to our HTML page so that it looks interactive to all users.
 
