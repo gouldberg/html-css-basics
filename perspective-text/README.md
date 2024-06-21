@@ -1,4 +1,4 @@
-# Perspective Text
+## Perspective Text
 
 This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 <br />
@@ -6,8 +6,8 @@ This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 ### HTML Code
 
 - First, we create an HTML file(index.html).
-- After creating the HTML file, we are going to give a title to our webpage using the <title> tag. It should be placed inside the <head> tag.
-- Then we link the CSS file that provides all the animations effect to our HTML. It is also placed inside the <head> tag.
+- After creating the HTML file, we are going to give a title to our webpage using the \<title\> tag. It should be placed inside the \<head\> tag.
+- Then we link the CSS file that provides all the animations effect to our HTML. It is also placed inside the \<head\> tag.
 - Coming to the body section of our HTML code.
   - Firstly, we are giving a heading to our page.
   - Inside the heading create 3 **span to store the data**.

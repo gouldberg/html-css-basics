@@ -1,11 +1,9 @@
-# Shiny Button
+## Shiny Button
 
 This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 <br />
 
 Create an image folding effect below the main image.
-<br />
-
 Create the main div in which we are creating 4 list tags.
 Use of **nth-child() selector property** to give different styles to different list items.
 <br />
@@ -13,7 +11,7 @@ Use of **nth-child() selector property** to give different styles to different l
 ### HTML Code
 
 - First, we create an HTML file (index.html).
-- Then we link the CSS file that provides all the animation's effect to our HTML. It is also placed inside <head> tag.
+- Then we link the CSS file that provides all the animation's effect to our HTML. It is also placed inside \<head\> tag.
 - Coming to the body section of our HTML code.
   - Firstly, we are giving heading to our page.
   - Then, we have to create an unordered list in which we have 5 list items that are further used to store the image.
