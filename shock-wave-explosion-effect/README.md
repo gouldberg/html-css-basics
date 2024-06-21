@@ -1,4 +1,4 @@
-# Shock Wave and Explosion Effect
+## Shock Wave and Explosion Effect
 
 This is totally from GeeksForGeeks.org HTML and CSS tutorials.
 <br />
