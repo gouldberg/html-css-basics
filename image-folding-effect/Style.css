@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(9, 138, 57);
+  list-style: none;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 2em;
+}
+
+.un-list {
+  width: 40em;
+  height: 20em;
+  top: 50%;
+  left: 50%;
+  transform: translate(120%, 50%);
+  display: flex;
+}
+
+.lis {
+  width: 100em;
+  height: 30em;
+  background-image: url("./images/img1.png");
+  background-size: cover;
+}
+
+/* Use of nth-child() selector property to give different styles to different list items. */
+/* The :nth-child() CSS pseudo-class selector is useful for targeting elements based on their position among siblings. */
+/* selector can match elements by specific numeric positions, odd/even positions, or complex functional notations like An+B. */
+
+.lis:nth-child(even) {
+  transform: skewY(-40deg);
+}
+
+.lis:nth-child(odd) {
+  transform: skewY(40deg);
+}
+
+.lis:nth-child(1) {
+  border-left: blanchedalmond 0.2em solid;
+  background-position: 0;
+  border-right: blanchedalmond 0.2em solid;
+}
+
+.lis:nth-child(2) {
+  background-position: -8em;
+  border-right: blanchedalmond 0.2em solid;
+}
+
+.lis:nth-child(3) {
+  background-position: -16em;
+  border-right: blanchedalmond 0.2em solid;
+}
+
+.lis:nth-child(4) {
+  background-position: -24em;
+  border-right: blanchedalmond 0.2em solid;
+}

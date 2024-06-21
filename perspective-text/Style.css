@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  color: teal;
+}
+
+h1 {
+  width: 3em;
+  height: 1em;
+  font-size: 6em;
+  position: relative;
+  white-space: nowrap;
+  color: transparent;
+}
+
+h1 span {
+  position: absolute;
+  background-color: rgb(7, 138, 138);
+  color: #000;
+}
+
+span:nth-child(odd) {
+  transform: skew(50deg, -20deg) scaleY(0.75);
+}
+
+span:nth-child(even) {
+  transform: skew(-5deg, -20deg);
+}
+
+span:nth-child(1) {
+  bottom: 1em;
+  left: 0.5em;
+}
+span:nth-child(2) {
+  top: 0.5em;
+  left: 2em;
+}
+
+span:nth-child(3) {
+  top: 2em;
+  left: 2.5em;
+}
